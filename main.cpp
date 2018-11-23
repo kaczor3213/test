@@ -1,4 +1,10 @@
 #include <iostream>
+<<<<<<< HEAD
+ 
+	int main(){
+		std::cout<<"Hello world! \n"<<"Kaczor_3213 \n";
+	}
+=======
 int main() {
 <<<<<<< HEAD
 	int i=8;
@@ -42,3 +48,4 @@ int main() {
 >>>>>>> 54c91a95d894b5e16778b867397c139350093525
 	return 0;
 }
+>>>>>>> refs/remotes/origin/master
