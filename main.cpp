@@ -10,7 +10,7 @@ int main(){
 		std::cout<<i<<", ";
 =======
 int main(){
-	
+	//kolejna zmiana	
 	for(int i=0; i<100; i++)	
 	std::cout << "Hello world!\n"
 <<<<<<< HEAD
